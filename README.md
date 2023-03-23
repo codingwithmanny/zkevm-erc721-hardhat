@@ -2,6 +2,11 @@
 
 This is a sample code base to show how to deploy an ERC721 contract to zkEVM Testnet.
 
+Want the full walkthrough of this repository, check out [How To Deploy An ERC721 Animated SVG NFT To zkEVM Testnet With Hardhat](https://codingwithmanny.medium.com/deploy-an-animated-nft-to-zkevm-with-hardhat-1c580e4a4465).
+
+![Deploy An ERC721 Contract To zkEVM Testnet](/docs/zkEVM-ERC721-NFT.png)
+
+
 ---
 
 ## Requirements
